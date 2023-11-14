@@ -1,0 +1,23 @@
+b{
+    color: blue;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section-03{
+    display: flex; background-color: darkblue; width: 100%;  padding-left: 10px; margin-top: 50px; padding-bottom: 5px;
+}
+
+p.section-03{
+    color: white;
+}
+
+.section-04{
+    display: flex; background-color: red; width: 100%;   margin-top: 5px;  justify-content: space-between;
+}
+
+p.section-04{
+    color: white;
+}
